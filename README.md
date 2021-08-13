@@ -1,1 +1,3 @@
-# Reference for CoinGeko API integration as oracle pattern into Solidity Smart contracts.
+# Soldity - CoinGeko API integration
+
+- Reference oracle pattern into Solidity Smart contracts.
